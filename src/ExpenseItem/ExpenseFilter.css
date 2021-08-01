@@ -1,0 +1,16 @@
+.expense-form-control {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #eee;
+}
+.expense-form-control label {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+.expense-form-control select {
+  padding: 0.5rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+  border-radius: 8px;
+}
